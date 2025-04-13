@@ -6,7 +6,7 @@ Welcome to my space! I'm a passionate Frontend Developer with a love for craftin
 - 👀 I’m interested in web development, open source projects, UI/UX design, frontend architecture, and performance optimization.
 - 🌱 I’m currently learning advanced TypeScript, system design, and exploring backend technologies like Node.js and MongoDB.
 - 💞️ I’m looking to collaborate on modern web applications, developer tools, and community-based tech initiatives.
-- 📫 How to reach me: [copia.dev@email.com](mailto:raymondasante69@gmail.com) |
+- 📫 How to reach me: (mailto:raymondasante69@gmail.com) |
 - ⚡ Fun fact: I started coding because I wanted to build my own music streaming site — and now I’m building apps that power real businesses!
 
 ---
